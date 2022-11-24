@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Event-Driven Programming - Streams - Benosa", "Event-Driven Programming - Streams - Benosa.csproj", "{6CAA4B21-E053-4042-8F9E-F57E031AB82A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CAA4B21-E053-4042-8F9E-F57E031AB82A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CAA4B21-E053-4042-8F9E-F57E031AB82A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CAA4B21-E053-4042-8F9E-F57E031AB82A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CAA4B21-E053-4042-8F9E-F57E031AB82A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5ADBE540-7A99-432F-A420-343EC5927C11}
+	EndGlobalSection
+EndGlobal

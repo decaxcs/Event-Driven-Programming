@@ -1,0 +1,11 @@
+C:\Users\ComputerLab4PC1\source\repos\Event-Driven Programming - Streams - Benosa\bin\Debug\Event-Driven Programming - Streams - Benosa.exe.config
+C:\Users\ComputerLab4PC1\source\repos\Event-Driven Programming - Streams - Benosa\bin\Debug\Event-Driven Programming - Streams - Benosa.exe
+C:\Users\ComputerLab4PC1\source\repos\Event-Driven Programming - Streams - Benosa\bin\Debug\Event-Driven Programming - Streams - Benosa.pdb
+C:\Users\ComputerLab4PC1\source\repos\Event-Driven Programming - Streams - Benosa\obj\Debug\Event-Driven Programming - Streams - Benosa.csprojAssemblyReference.cache
+C:\Users\ComputerLab4PC1\source\repos\Event-Driven Programming - Streams - Benosa\obj\Debug\Event_Driven_Programming___Streams___Benosa.FrmFileName.resources
+C:\Users\ComputerLab4PC1\source\repos\Event-Driven Programming - Streams - Benosa\obj\Debug\Event_Driven_Programming___Streams___Benosa.FrmLab1.resources
+C:\Users\ComputerLab4PC1\source\repos\Event-Driven Programming - Streams - Benosa\obj\Debug\Event_Driven_Programming___Streams___Benosa.Properties.Resources.resources
+C:\Users\ComputerLab4PC1\source\repos\Event-Driven Programming - Streams - Benosa\obj\Debug\Event-Driven Programming - Streams - Benosa.csproj.GenerateResource.cache
+C:\Users\ComputerLab4PC1\source\repos\Event-Driven Programming - Streams - Benosa\obj\Debug\Event-Driven Programming - Streams - Benosa.exe
+C:\Users\ComputerLab4PC1\source\repos\Event-Driven Programming - Streams - Benosa\obj\Debug\Event-Driven Programming - Streams - Benosa.pdb
+C:\Users\ComputerLab4PC1\source\repos\Event-Driven Programming - Streams - Benosa\obj\Debug\Account_Registration.FrmRegistration.resources
