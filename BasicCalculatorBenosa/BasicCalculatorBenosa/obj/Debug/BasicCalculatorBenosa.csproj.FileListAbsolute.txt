@@ -1,0 +1,14 @@
+C:\Users\ComputerLab4PC1\source\repos\BasicCalculatorBenosa\BasicCalculatorBenosa\bin\Debug\BasicCalculatorBenosa.exe.config
+C:\Users\ComputerLab4PC1\source\repos\BasicCalculatorBenosa\BasicCalculatorBenosa\bin\Debug\BasicCalculatorBenosa.exe
+C:\Users\ComputerLab4PC1\source\repos\BasicCalculatorBenosa\BasicCalculatorBenosa\bin\Debug\BasicCalculatorBenosa.pdb
+C:\Users\ComputerLab4PC1\source\repos\BasicCalculatorBenosa\BasicCalculatorBenosa\obj\Debug\BasicCalculatorBenosa.csprojAssemblyReference.cache
+C:\Users\ComputerLab4PC1\source\repos\BasicCalculatorBenosa\BasicCalculatorBenosa\obj\Debug\BasicCalculatorBenosa.FrmBasicCalculator.resources
+C:\Users\ComputerLab4PC1\source\repos\BasicCalculatorBenosa\BasicCalculatorBenosa\obj\Debug\BasicCalculatorBenosa.Properties.Resources.resources
+C:\Users\ComputerLab4PC1\source\repos\BasicCalculatorBenosa\BasicCalculatorBenosa\obj\Debug\BasicCalculatorBenosa.csproj.GenerateResource.cache
+C:\Users\ComputerLab4PC1\source\repos\BasicCalculatorBenosa\BasicCalculatorBenosa\obj\Debug\BasicCalculatorBenosa.exe
+C:\Users\ComputerLab4PC1\source\repos\BasicCalculatorBenosa\BasicCalculatorBenosa\obj\Debug\BasicCalculatorBenosa.pdb
+C:\Users\ComputerLab4PC1\source\repos\BasicCalculatorBenosa\BasicCalculatorBenosa\bin\Debug\BasicComputation.dll
+C:\Users\ComputerLab4PC1\source\repos\BasicCalculatorBenosa\BasicCalculatorBenosa\bin\Debug\BasicComputation.pdb
+C:\Users\ComputerLab4PC1\source\repos\BasicCalculatorBenosa\BasicCalculatorBenosa\obj\Debug\BasicCalculatorBenosa.csproj.CopyComplete
+C:\Users\ComputerLab4PC1\source\repos\BasicCalculatorBenosa\BasicCalculatorBenosa\bin\Debug\BasicComputationBenosa.dll
+C:\Users\ComputerLab4PC1\source\repos\BasicCalculatorBenosa\BasicCalculatorBenosa\bin\Debug\BasicComputationBenosa.pdb

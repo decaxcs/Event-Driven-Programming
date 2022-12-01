@@ -1,0 +1,4 @@
+C:\Users\ComputerLab4PC1\source\repos\BasicCalculatorBenosa\BasicComputation\bin\Debug\BasicComputation.dll
+C:\Users\ComputerLab4PC1\source\repos\BasicCalculatorBenosa\BasicComputation\bin\Debug\BasicComputation.pdb
+C:\Users\ComputerLab4PC1\source\repos\BasicCalculatorBenosa\BasicComputation\obj\Debug\BasicComputation.dll
+C:\Users\ComputerLab4PC1\source\repos\BasicCalculatorBenosa\BasicComputation\obj\Debug\BasicComputation.pdb
